@@ -1,10 +1,22 @@
+<div>
 <h1 align="center">
 If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person. 
 </h1>
+  <h5>Contact info</h5>
+</h1>
+<h6> 
+   Gmail: talent.webstar0225@gmail.com
+</h6>
+<h6>
+   Skype: live:.cid.4488a0f32377767 
+</h6>
+</div>
+<div>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 </h1>
+</div>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Ghost00327.Ghost00327" />
 <img align="right" src="https://img.shields.io/github/followers/alchemist0404?label=Follow&style=social" />
 <h1 align="center"></h1>
