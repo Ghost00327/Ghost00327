@@ -76,7 +76,7 @@ If you are expecting such words as "High Quality", "Clean Code", "In-Time Delive
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
 </div>
 
-## 𝐖𝐡𝐚𝐭 𝐖𝐞 𝐂𝐚𝐧 𝐃𝐨
+## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
@@ -84,7 +84,7 @@ If you are expecting such words as "High Quality", "Clean Code", "In-Time Delive
 ### Online Website building and Mobile app
 <br />
 
-### Best Front-end Developing with Morder Front-end Frameworks
+### Best Front-end Developing with Mordern Front-end Frameworks
 <br />
 
 ### MERN, MEAN, Laravel&Vue Full-Stack Web Developing
