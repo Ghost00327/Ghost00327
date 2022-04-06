@@ -1,15 +1,6 @@
 <div>
 <h1 align="center">
 If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person. 
-</h1>
-  <h5>Contact info</h5>
-</h1>
-<h6> 
-   Gmail: talent.webstar0225@gmail.com
-</h6>
-<h6>
-   Skype: live:.cid.4488a0f32377767 
-</h6>
 </div>
 <div>
 <h1 align="center">
