@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">
-If you are expecting such words as "High Quality", "Clean Code", "In-Time Delivery" I would be the right person. 
+Senior Frontend Developer
 </div>
 <div>
 <h1 align="center">
