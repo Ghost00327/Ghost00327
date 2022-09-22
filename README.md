@@ -1,13 +1,27 @@
 <div>
 <h1 align="center">
-Senior Frontend Developer
+🙋‍♂️  Senior Frontend Developer
 </div>
-<div>
-<h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-</h1>
-</div>
+
+### Intro
+
+Frontend developer with proven experience  in helping companies create and maintain a better code base for reusability. 
+
+Updating daily work, good communication skill ...
+
+### About
+
+🎅 Passionate and creative Frontend developer with over 7 years experience.
+
+💥 Focusing on the vue.js Framework with various kinda industry.
+
+👨‍🎓 Bachelor's Degree in Computer Science
+
+### Summary
+
+- Contributor at <b><a href="https://www.layermark.com/">Layermark</a></b> 's  <b><a href="https://globalwaterawards.com/2022-smart-water-project-of-the-year/">Global Water Award</a></b>
+
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Ghost00327.Ghost00327" />
 <img align="right" src="https://img.shields.io/github/followers/Ghost00327?label=Follow&style=social" />
 <h1 align="center"></h1>
@@ -15,7 +29,7 @@ Senior Frontend Developer
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost00327&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
-<h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
+### Skill Set
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
@@ -65,24 +79,4 @@ Senior Frontend Developer
     <img src="https://badges.pufler.dev/gists/alchemist0404?style=flat-square&color=black&logo=github">
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />-->
-</div>
-
-## 𝐖𝐡𝐚𝐭 I 𝐂𝐚𝐧 𝐃𝐨
-
-<div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
- 
-### Online Website building and Mobile app
-<br />
-
-### Best Front-end Developing with Mordern Front-end Frameworks
-<br />
-
-### MERN, MEAN, Laravel&Vue Full-Stack Web Developing
-<br />
-
-### Perfect Web Scraping, Bot building
-<br />
-  
-
 </div>
