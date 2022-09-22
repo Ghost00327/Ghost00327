@@ -29,7 +29,6 @@ Updating daily work, good communication skill ...
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghost00327&layout=compact&theme=merko&count_private=true" />
 <img height="150px" />
 
-### Skill Set
 <table>
   <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/react-3-1175109.png" width="100"></td>
