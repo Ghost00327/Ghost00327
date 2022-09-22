@@ -19,7 +19,7 @@ Updating daily work, good communication skill ...
 
 ### Summary
 
-- Contributor at <b><a href="https://www.layermark.com/">Layermark</a></b> 's  <b><a href="https://globalwaterawards.com/2022-smart-water-project-of-the-year/">Global Water Award</a></b>
+- Contributor at <b><a href="https://www.layermark.com/">Layermark</a></b> 's  <b><a href="https://globalwaterawards.com/2022-smart-water-project-of-the-year/">Global Water Award</a></b> as a Frontend developer
 
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Ghost00327.Ghost00327" />
