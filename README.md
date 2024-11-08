@@ -1,11 +1,11 @@
 <div>
 <h1 align="center">
-🙋‍♂️  Senior Frontend Developer
+🙋‍♂️  Senior FullStack Developer
 </div>
 
 ### Intro
 
-Frontend developer with proven experience  in helping companies create and maintain a better code base for reusability. 
+FullStack developer with proven experience  in helping companies create and maintain a better code base for reusability. 
 
 Updating daily work, good communication skill ...
 
